@@ -1,5 +1,5 @@
 project: serde-pickle
-target: fuzz_targets
+target: serde-pickle
 
 cmds:
   - cmd: /parsing
